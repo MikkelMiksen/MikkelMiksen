@@ -40,6 +40,18 @@ I care deeply about:
 
 ---
 
+# Contact
+
+Feel free to connect if you're interested in:
+
+* Gameplay systems
+* Technical game design
+* Multiplayer mechanics
+* Experimental game concepts
+* Simulation-heavy projects
+
+---
+
 # Tech Stack
 
 ## Languages
@@ -68,6 +80,64 @@ I care deeply about:
 * Simulation systems
 * Procedural mechanics
 * Pixel art game development
+
+---
+
+# What I Bring
+
+## Systems Thinking
+
+I enjoy designing interconnected systems where mechanics influence one another in meaningful ways.
+
+## Rapid Iteration
+
+I prototype quickly, test ideas aggressively, and refine based on gameplay feel and player interaction.
+
+## Player-Focused Design
+
+I prioritize clarity, responsiveness, and systems that reward player skill and experimentation.
+
+## Technical Creativity
+
+I like solving unusual design problems with scalable technical solutions.
+
+---
+
+# Current Interests
+
+* Advanced gameplay systems
+* Multiplayer architecture
+* AI-driven gameplay
+* Emergent player behavior
+* Simulation design
+* Game economies
+* Educational games
+* Technical game design
+* Unreal Engine workflows
+
+---
+
+# Open To
+
+* Gameplay programming roles
+* Systems design roles
+* Indie collaborations
+* Technical game design opportunities
+* Experimental gameplay projects
+* Multiplayer systems work
+* Game AI development
+
+---
+
+# GitHub Goals
+
+This GitHub is focused on:
+
+* Sharing gameplay systems
+* Publishing experimental mechanics
+* Documenting technical learning
+* Building polished prototypes
+* Exploring player-driven game systems
 
 ---
 
@@ -159,73 +229,3 @@ A 2D Java-based exploration and treasure hunting project.
 * Lightweight engine architecture
 * Pixel-art-focused gameplay
 * Reward-driven progression loops
-
----
-
-# What I Bring
-
-## Systems Thinking
-
-I enjoy designing interconnected systems where mechanics influence one another in meaningful ways.
-
-## Rapid Iteration
-
-I prototype quickly, test ideas aggressively, and refine based on gameplay feel and player interaction.
-
-## Player-Focused Design
-
-I prioritize clarity, responsiveness, and systems that reward player skill and experimentation.
-
-## Technical Creativity
-
-I like solving unusual design problems with scalable technical solutions.
-
----
-
-# Current Interests
-
-* Advanced gameplay systems
-* Multiplayer architecture
-* AI-driven gameplay
-* Emergent player behavior
-* Simulation design
-* Game economies
-* Educational games
-* Technical game design
-* Unreal Engine workflows
-
----
-
-# Open To
-
-* Gameplay programming roles
-* Systems design roles
-* Indie collaborations
-* Technical game design opportunities
-* Experimental gameplay projects
-* Multiplayer systems work
-* Game AI development
-
----
-
-# GitHub Goals
-
-This GitHub is focused on:
-
-* Sharing gameplay systems
-* Publishing experimental mechanics
-* Documenting technical learning
-* Building polished prototypes
-* Exploring player-driven game systems
-
----
-
-# Contact
-
-Feel free to connect if you're interested in:
-
-* Gameplay systems
-* Technical game design
-* Multiplayer mechanics
-* Experimental game concepts
-* Simulation-heavy projects
