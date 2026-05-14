@@ -19,6 +19,8 @@ My work combines:
 
 I am a developer focused on creating systems-driven games where player decisions meaningfully impact gameplay, progression, and social interaction.
 
+Kind of a workoholic, what can i say.. I just love coding.
+
 I enjoy building:
 
 * Multiplayer economic simulations
@@ -42,8 +44,8 @@ I care deeply about:
 
 ## Languages
 
-* Java
 * C#
+* Java
 * Python
 * Rust
 
@@ -227,6 +229,3 @@ Feel free to connect if you're interested in:
 * Multiplayer mechanics
 * Experimental game concepts
 * Simulation-heavy projects
-
-<!-- Add your portfolio / LinkedIn / website links here -->
-
